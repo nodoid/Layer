@@ -1,0 +1,2 @@
+/Users/PFJ/Developer/layer/Layer/Layer/Layer/Layer/obj/Debug/MonoAndroid,Version=v5.0.AssemblyAttribute.cs
+/Users/PFJ/Developer/layer/Layer/Layer/Layer/Layer/obj/Debug/Layer.Jars.layer-sdk-0.10.1.jar
